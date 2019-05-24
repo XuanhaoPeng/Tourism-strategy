@@ -1,0 +1,10 @@
+1.Name of the team
+  Travel Family
+2.Name of the GitHub project
+  Tourism-strategy
+3.GitHub username of the GitHub repository
+DengHonghui  SizhanWu  yingxianliao  XuanhaoPeng
+4.Name of the Product Owner for Sprint#2£º
+ YingXian Liao
+5.Name of the Scrum Master for Sprint#2£º
+  DengHonghui
